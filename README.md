@@ -1,4 +1,7 @@
-# Statistical Learning - Final Project
+# Statistical Learning - Final project
+
+### _"Education during the pandemic: An evaluation of student performance in Uruguay"_ 
+_By Cardarello Fierro, M._
 
 The analysis of the impact that the COVID-19 pandemic has across the different sectors in the economy should include the evaluation of educational performances during 2020. This study is focus on the multidimensional factors that impacted on the Maths test scores of the sixth-grade students in Uruguay, including those relating to the health emergency. A set of supervised algorithms were performed to approach a better understanding of the determinants of the educational performance. In the second part, an unsupervised analysis was implemented to detect a set of components that describes the main features of the students (PCA) and classifying them into groups, based on their similarity (k-means).
 
